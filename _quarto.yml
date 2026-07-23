@@ -3,7 +3,7 @@ project:
   output-dir: docs 
 
 website:
-  title: "MATH283 Project Three Collab"
+  title: "MATH 283 Final Project: Criticality"
   navbar:
     left:
       - href: index.qmd
