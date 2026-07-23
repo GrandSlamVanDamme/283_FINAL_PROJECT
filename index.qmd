@@ -1,12 +1,17 @@
-## FINAL PROJECT
+## Final Project
 ### MATH283 Spring '26
 #### v.0.8
 
-This is the homepage for the U03 project. We'll be modelling the cooling rate of a nuclear reactor. Use the directory above to navigate to different sections of the project. 
 
-![Rsb8382, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](treat.jpg)
 
-This site is under construction. Upon completion, it will host open-source python code, relevant data, and a record of the modelling process, and a report summarizing our findings.
+![EDUCATIONAL FAIR USE via INL.gov](treat_bw_INL.png)
+
+*"The world’s most dynamic and flexible transient test reactor is available for research and demonstration activities. The Transient Reactor Test (TREAT) Facility provides a transformational research platform that links science and engineering capabilities for the advancement of fundamental science and nuclear technology. TREAT will directly couple the response of fuel and fissile-material systems to complex environments experienced under a variety of operational and off-normal transient events anticipated in nuclear reactors. From scientific discovery to technology development and deployment, TREAT will enable the advancement of nuclear fuel science and engineering required to optimize operation of the existing light water reactor fleet, as well as advanced reactors of the future."* 
+-from the Idaho National Lab website https://inl.gov/mfc/facilities/treat/
+
+
+
+
 
 
 
